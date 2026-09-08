@@ -28,7 +28,10 @@ A dedicated **Pharmacist** and **Chemistry Educator** with a strong background i
   
 ### Industrial Pharmacy Intern
 *[Kilitch Drugs,Turbhe]* | *[May 2025 – June 2025]*
-* 
+* Quality Control & Assurance – Test raw materials & finished products to ensure specs & GMP 
+compliance.  
+• Production Support – Assist batch manufacturing, packaging, and line clearance activities.  
+• Regulatory & Documentation – Maintain records, SOPs, and help with compliance reports.  
   
 ### Hospital Pharmacist Intern
 *[Bhigwan Medicare Hospital, Bhigwan]* | *[May 2024 – June 2024]*
