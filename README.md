@@ -32,6 +32,12 @@ A dedicated **Pharmacist** and **Chemistry Educator** with a strong background i
 * Designed and delivered comprehensive chemistry lectures for secondary/higher education students.
 * Developed tailored study modules and visual aids that increased student pass rates.
 * Mentored students in laboratory safety, chemical analysis, and practical experiments.
+
+*[AF Classes and DAV CBSE]* | *[2025 – Present]*
+* Designed and delivered comprehensive chemistry lectures for secondary/higher education students.
+* Developed tailored study modules and visual aids that increased student pass rates.
+* Mentored students in laboratory safety, chemical analysis, and practical experiments.
+* Focusing on CBSE methodology for added student advanatge
   
 ### Industrial Pharmacy Intern
 *[Kilitch Drugs,Turbhe]* | *[May 2025 – June 2025]*
