@@ -1,9 +1,11 @@
-# Shahid-Workdeck
 # Shahid Maner
-**Pharmacist | Chemistry Educator**
+![Role](https://img.shields.io/badge/Role-Pharmacist_%26_Educator-2E7D32?style=flat-square)
+![Degree](https://img.shields.io/badge/Degree-B.Pharm-0277BD?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Pharmacovigilance_%26_Chemistry-6A1B9A?style=flat-square)
 
-[LinkedIn Profile](https://www.linkedin.com/in/shahid-maner-2b571a262) | [Email](manershahid14@gmail.com) | Location: [Mumbai, India]
-
+[![LinkedIn Profile] (https://img.shields.io/badge/LinkedIn-Shahid_Maner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-maner-2b571a262)  
+[![Email] (https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (manershahid14@gmail.com)  
+[!Location:(https://img.shields.io/badge/Location-Maharashtra%2C_India-24292E?style=for-the-badge&logo=google maps&logoColor=white)](#)
 ---
 
 ## 👨‍🔬 Professional Profile
@@ -12,9 +14,12 @@ A dedicated **Pharmacist** and **Chemistry Educator** with a strong background i
 ---
 
 ## 🛠️ Core Competencies & Skills
-* **Pharmaceutical Care:** Drug formulation, pharmacology, clinical evaluation, regulatory compliance.
-* **Chemistry Education:** Organic & Inorganic Chemistry, lesson planning, student mentorship, exam preparation.
-* **Technical Skills:** Scientific research, laboratory techniques, medical writing, presentation design.
+![Pharmacology](https://img.shields.io/badge/Pharmacology-008080?style=for-the-badge&logo=medrxiv&logoColor=white)
+![Organic Chemistry](https://img.shields.io/badge/Organic_Chemistry-0277BD?style=for-the-badge&logo=chemistry&logoColor=white)
+![Drug Formulation](https://img.shields.io/badge/Drug_Formulation-2E7D32?style=for-the-badge&logo=flask&logoColor=white)
+![MedDRA Coding](https://img.shields.io/badge/MedDRA-6A1B9A?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Clinical Safety](https://img.shields.io/badge/Clinical_Safety-D84315?style=for-the-badge&logo=cross&logoColor=white)
+![Pedagogy & Teaching](https://img.shields.io/badge/Pedagogy_%26_Teaching-F57F17?style=for-the-badge&logo=googleclassroom&logoColor=white)
 
 ---
 
@@ -48,4 +53,4 @@ compliance.
 ---
 
 ## 📄 Download Full Resume
-You can view or download my complete PDF resume [here](./Shahid_Maner_Resume.pdf).
+[![Download Resume PDF](https://img.shields.io/badge/Download_PDF_Resume-Click_Here-0070F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)] (./Shahid_Maner_Resume.pdf).
