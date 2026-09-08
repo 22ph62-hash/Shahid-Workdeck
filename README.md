@@ -3,7 +3,9 @@
 ![Degree](https://img.shields.io/badge/Degree-B.Pharm-0277BD?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Pharmacovigilance_%26_Chemistry-6A1B9A?style=flat-square)
 
-###Connect and Contact
+----
+
+## Connect and Contact
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Shahid_Maner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-maner-2b571a262)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manershahid14@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Maharashtra%2C_India-24292E?style=for-the-badge&logo=googlemaps&logoColor=white)
